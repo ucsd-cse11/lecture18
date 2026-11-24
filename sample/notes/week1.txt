@@ -1,0 +1,2 @@
+Records hold data that travels together.
+Methods compute new values from old ones.
